@@ -1,14 +1,14 @@
-9249
-58/home/piyush/Downloads/projectreact/dist/index.7271efb6.js1716997892650633346 0
-67/home/piyush/Downloads/projectreact/dist/part1actimage.bf20452d.png1716997892598635810 0
+9250
+46/home/piyush/Downloads/projectreact/index.html1716963116000000000 0
+59/home/piyush/Downloads/projectreact/dist/place.1da43930.png1716997892554637897 0
 57/home/piyush/Downloads/projectreact/dist/mic.1a521b96.png1716997892594636001 0
-60/home/piyush/Downloads/projectreact/dist/Google.4c484214.png1716997892594636001 0
-67/home/piyush/Downloads/projectreact/dist/part2actimage.b6a5b42a.png1716997892562637518 0
 62/home/piyush/Downloads/projectreact/dist/actimage.afada5dd.png1716997892562637518 0
 64/home/piyush/Downloads/projectreact/dist/mobilelogo.97fcd3d5.png1716997892554637897 0
-59/home/piyush/Downloads/projectreact/dist/place.1da43930.png1716997892554637897 0
-46/home/piyush/Downloads/projectreact/index.html1716963116000000000 0
-40/home/piyush/Downloads/projectreact/dist1716995065000000000 1
+67/home/piyush/Downloads/projectreact/dist/part1actimage.bf20452d.png1716997892598635810 0
+67/home/piyush/Downloads/projectreact/dist/part2actimage.b6a5b42a.png1716997892562637518 0
+58/home/piyush/Downloads/projectreact/dist/index.7271efb6.js1716997892650633346 0
+60/home/piyush/Downloads/projectreact/dist/Google.4c484214.png1716997892594636001 0
+40/home/piyush/Downloads/projectreact/dist1716997892654633157 1
 46/home/piyush/Downloads/projectreact/.postcssrc1716961733000000000 0
 70/home/piyush/Downloads/projectreact/node_modules/strip-ansi/index.d.ts1716997589149345248 0
 68/home/piyush/Downloads/projectreact/node_modules/strip-ansi/index.js1716997589129346126 0
@@ -393,7 +393,7 @@
 57/home/piyush/Downloads/projectreact/node_modules/domutils1716997589225341912 1
 73/home/piyush/Downloads/projectreact/node_modules/ansi-styles/package.json1716997589141345600 0
 70/home/piyush/Downloads/projectreact/node_modules/ansi-styles/readme.md1716997589149345248 0
-48/home/piyush/Downloads/projectreact/package.json1716963666000000000 0
+48/home/piyush/Downloads/projectreact/package.json1716998928878492432 0
 67/home/piyush/Downloads/projectreact/node_modules/parse-json/license1716997589125346302 0
 68/home/piyush/Downloads/projectreact/node_modules/parse-json/index.js1716997589129346126 0
 69/home/piyush/Downloads/projectreact/node_modules/parse-json/readme.md1716997589145345424 0
@@ -2546,7 +2546,8 @@
 81/home/piyush/Downloads/projectreact/node_modules/yaml/browser/dist/schema/tags.js1716997589361335942 0
 90/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/solid/esm/CheckIcon.d.ts1716997590693277546 0
 91/home/piyush/Downloads/projectreact/node_modules/yaml/browser/dist/schema/yaml-1.1/pairs.js1716997589345336645 0
-117/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/cleanupAttrs.js1716997589217342264 0
+97/home/piyush/Downloads/projectreact/node_modules/resolve/test/resolver/browser_field/package.json1716997589349336469 0
+89/home/piyush/Downloads/projectreact/node_modules/yaml/browser/dist/schema/yaml-1.1/set.js1716997589361335942 0
 97/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/features/css-cascade-layers.js1716997589857314170 0
 68/home/piyush/Downloads/projectreact/node_modules/parcel/node_modules1716997588377379203 1
 94/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-svgo/node_modules/commander1716997589205342790 1
@@ -2793,10 +2794,6 @@
 131/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/pseudo/nth-last-of-type.js1716997589349336469 0
 95/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/features/css-writing-mode.js1716997589865313819 0
 95/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/cjs/_class_private_method_set.cjs1716997590169300492 0
-61/home/piyush/Downloads/projectreact/node_modules/htmlnano/lib1716997589937310658 1
-88/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/outline/ShareIcon.d.ts1716997590733275794 0
-86/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/features/outline.js1716997589961309605 0
-67/home/piyush/Downloads/projectreact/node_modules/function-bind/test1716997589165344546 1
 80/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/regions/AU.js1716997589817315926 0
 80/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/regions/NF.js1716997589949310131 0
 72/home/piyush/Downloads/projectreact/node_modules/lilconfig/dist/index.js1716997589137345775 0
@@ -4488,6 +4485,8 @@
 74/home/piyush/Downloads/projectreact/node_modules/@swc/types/index.d.ts.map1716997589565326987 0
 83/home/piyush/Downloads/projectreact/node_modules/@parcel/core/src/Transformation.js1716997591765230682 0
 80/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/regions/BI.js1716997589817315926 0
+88/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/solid/ChevronUpIcon.js1716997590629280348 0
+79/home/piyush/Downloads/projectreact/node_modules/htmlparser2/lib/index.d.ts.map1716997589777317682 0
 80/home/piyush/Downloads/projectreact/node_modules/@parcel/source-map/dist/node.js1716997590473287179 0
 91/home/piyush/Downloads/projectreact/node_modules/@nodelib/fs.scandir/out/providers/async.js1716997589149345248 0
 76/home/piyush/Downloads/projectreact/node_modules/htmlparser2/lib/Parser.d.ts1716997589777317682 0
@@ -4890,7 +4889,6 @@
 89/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/outline/PlusSmIcon.d.ts1716997590721276319 0
 80/home/piyush/Downloads/projectreact/node_modules/@nodelib/fs.walk/out/index.d.ts1716997589257340507 0
 73/home/piyush/Downloads/projectreact/node_modules/react-icons/fc/index.mjs1716997589513329270 0
-66/home/piyush/Downloads/projectreact/node_modules/entities/lib/maps1716997590049305746 1
 104/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/outline/esm/ChevronDoubleLeftIcon.d.ts1716997590693277546 0
 82/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/features/av1.js1716997589817315926 0
 112/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/_/_class_apply_descriptor_destructure/package.json1716997590185299791 0
@@ -4953,6 +4951,11 @@
 82/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/src/_ts_decorate.mjs1716997590233297689 0
 74/home/piyush/Downloads/projectreact/node_modules/string-width/package.json1716997589129346126 0
 78/home/piyush/Downloads/projectreact/node_modules/type-fest/source/mutable.d.ts1716997589253340683 0
+69/home/piyush/Downloads/projectreact/node_modules/import-fresh/license1716997589125346302 0
+100/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/cjs/_class_private_field_loose_key.cjs1716997590169300492 0
+69/home/piyush/Downloads/projectreact/assets/herosection/part2hobby.png1716968666000000000 0
+62/home/piyush/Downloads/projectreact/node_modules/mz/HISTORY.md1716997589189343493 0
+87/home/piyush/Downloads/projectreact/node_modules/@parcel/core/test/EntryRequest.test.js1716997591609237497 0
 98/home/piyush/Downloads/projectreact/node_modules/sucrase/dist/transformers/ESMImportTransformer.js1716997589289339102 0
 65/home/piyush/Downloads/projectreact/src/components/HeroSection.js1716989780000000000 0
 82/home/piyush/Downloads/projectreact/node_modules/@parcel/core/src/public/Config.js1716997591605237671 0
@@ -5112,14 +5115,14 @@
 97/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/features/css-initial-letter.js1716997589861313994 0
 106/home/piyush/Downloads/projectreact/node_modules/sucrase/dist/types/transformers/JestHoistTransformer.d.ts1716997589369335592 0
 62/home/piyush/Downloads/projectreact/assets/testimonial/mic.png1716969427000000000 0
-76/home/piyush/Downloads/projectreact/node_modules/lmdb/src/ordered-binary.cpp1716997590093303820 0
-61/home/piyush/Downloads/projectreact/assets/header/Hobbies.png1716967095000000000 0
-83/home/piyush/Downloads/projectreact/node_modules/yaml/dist/stringify/stringify.d.ts1716997589373335416 0
-58/home/piyush/Downloads/projectreact/node_modules/picomatch1716997589205342790 1
 90/home/piyush/Downloads/projectreact/node_modules/@nodelib/fs.scandir/out/providers/sync.js1716997589213342439 0
 88/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/outline/esm/MapIcon.js1716997590649279473 0
 62/home/piyush/Downloads/projectreact/node_modules/object-assign1716997589137345775 1
 125/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/UnicodeRange.js1716997589361335942 0
+76/home/piyush/Downloads/projectreact/node_modules/lmdb/src/ordered-binary.cpp1716997590093303820 0
+61/home/piyush/Downloads/projectreact/assets/header/Hobbies.png1716967095000000000 0
+83/home/piyush/Downloads/projectreact/node_modules/yaml/dist/stringify/stringify.d.ts1716997589373335416 0
+58/home/piyush/Downloads/projectreact/node_modules/picomatch1716997589205342790 1
 108/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/_/_class_extract_field_descriptor/package.json1716997590185299791 0
 113/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/_/_class_static_private_field_spec_get/package.json1716997590201299091 0
 89/home/piyush/Downloads/projectreact/node_modules/@nodelib/fs.walk/out/readers/common.d.ts1716997589253340683 0
@@ -5138,8 +5141,6 @@
 82/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/_/_apply_decs_2203_r1716997590181299966 1
 88/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/outline/ArrowUpIcon.js1716997590601281575 0
 100/home/piyush/Downloads/projectreact/node_modules/postcss-selector-parser/dist/selectors/namespace.js1716997589245341034 0
-88/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/solid/ChevronUpIcon.js1716997590629280348 0
-79/home/piyush/Downloads/projectreact/node_modules/htmlparser2/lib/index.d.ts.map1716997589777317682 0
 97/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/src/_class_apply_descriptor_set.mjs1716997590229297864 0
 118/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/convertColors.js1716997589261340332 0
 100/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/cjs/_tagged_template_literal_loose.cjs1716997590173300317 0
@@ -5290,11 +5291,6 @@
 85/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/features/tls1-1.js1716997589969309253 0
 73/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/esm/_get.js1716997590177300142 0
 91/home/piyush/Downloads/projectreact/node_modules/@parcel/markdown-ansi/lib/markdown-ansi.js1716997590037306272 0
-66/home/piyush/Downloads/projectreact/node_modules/jiti/dist/jiti.js1716997589333337171 0
-80/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/regions/MX.js1716997589945310307 0
-83/home/piyush/Downloads/projectreact/node_modules/@parcel/logger/test/Logger.test.js1716997590537284377 0
-90/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/cjs/_object_spread_props.cjs1716997590173300317 0
-95/home/piyush/Downloads/projectreact/node_modules/@parcel/transformer-react-refresh-wrap/LICENSE1716997591173256544 0
 80/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/regions/YE.js1716997590001307849 0
 80/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/regions/MD.js1716997589921311360 0
 104/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/esm/_class_apply_descriptor_destructure.js1716997590173300317 0
@@ -5419,6 +5415,11 @@
 88/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/solid/esm/ScaleIcon.js1716997590669278597 0
 61/home/piyush/Downloads/projectreact/node_modules/yaml/browser1716997589365335766 1
 58/home/piyush/Downloads/projectreact/node_modules/mz/dns.js1716997589181343843 0
+66/home/piyush/Downloads/projectreact/node_modules/jiti/dist/jiti.js1716997589333337171 0
+80/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/regions/MX.js1716997589945310307 0
+83/home/piyush/Downloads/projectreact/node_modules/@parcel/logger/test/Logger.test.js1716997590537284377 0
+90/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/cjs/_object_spread_props.cjs1716997590173300317 0
+95/home/piyush/Downloads/projectreact/node_modules/@parcel/transformer-react-refresh-wrap/LICENSE1716997591173256544 0
 99/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/solid/esm/DocumentReportIcon.d.ts1716997590705277020 0
 86/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/cjs/_define_property.cjs1716997590169300492 0
 86/home/piyush/Downloads/projectreact/node_modules/posthtml/node_modules/posthtml-parser1716997589709320667 1
@@ -5964,6 +5965,8 @@
 71/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/_/_update1716997590225298039 1
 72/home/piyush/Downloads/projectreact/node_modules/nanoid/index.browser.js1716997589205342790 0
 65/home/piyush/Downloads/projectreact/node_modules/cssesc/README.md1716997589145345424 0
+74/home/piyush/Downloads/projectreact/node_modules/is-binary-path/index.d.ts1716997589133345951 0
+72/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/_/_extends1716997590205298915 1
 91/home/piyush/Downloads/projectreact/node_modules/supports-preserve-symlinks-flag/browser.js1716997589137345775 0
 93/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/_/_sliced_to_array/package.json1716997590213298565 0
 68/home/piyush/Downloads/projectreact/node_modules/is-arrayish/LICENSE1716997589145345424 0
@@ -6286,6 +6289,8 @@
 82/home/piyush/Downloads/projectreact/node_modules/sucrase/dist/esm/parser/tokenizer1716997589361335942 1
 85/home/piyush/Downloads/projectreact/node_modules/path-scurry/dist/commonjs/index.d.ts1716997589277339630 0
 98/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/dist1716997589309338225 1
+66/home/piyush/Downloads/projectreact/node_modules/entities/lib/maps1716997590049305746 1
+45/home/piyush/Downloads/projectreact/README.md1716998208697040493 0
 99/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/solid/esm/ClipboardCheckIcon.d.ts1716997590693277546 0
 75/home/piyush/Downloads/projectreact/node_modules/lmdb/util/RangeIterable.js1716997590105303295 0
 63/home/piyush/Downloads/projectreact/node_modules/domelementtype1716997589189343493 1
@@ -6300,15 +6305,13 @@
 73/home/piyush/Downloads/projectreact/node_modules/css-what/lib/es/types.js1716997589217342264 0
 82/home/piyush/Downloads/projectreact/node_modules/@parcel/packager-svg/package.json1716997590561283326 0
 76/home/piyush/Downloads/projectreact/node_modules/react-icons/ri/package.json1716997589457331728 0
-69/home/piyush/Downloads/projectreact/node_modules/import-fresh/license1716997589125346302 0
-100/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/cjs/_class_private_field_loose_key.cjs1716997590169300492 0
-69/home/piyush/Downloads/projectreact/assets/herosection/part2hobby.png1716968666000000000 0
-62/home/piyush/Downloads/projectreact/node_modules/mz/HISTORY.md1716997589189343493 0
-87/home/piyush/Downloads/projectreact/node_modules/@parcel/core/test/EntryRequest.test.js1716997591609237497 0
 63/home/piyush/Downloads/projectreact/node_modules/is-binary-path1716997589145345424 1
 95/home/piyush/Downloads/projectreact/node_modules/@parcel/transformer-postcss/src/loadPlugins.js1716997590529284728 0
-72/home/piyush/Downloads/projectreact/node_modules/@swc/helpers/_/_extends1716997590205298915 1
-74/home/piyush/Downloads/projectreact/node_modules/is-binary-path/index.d.ts1716997589133345951 0
+61/home/piyush/Downloads/projectreact/node_modules/htmlnano/lib1716997589937310658 1
+88/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/outline/ShareIcon.d.ts1716997590733275794 0
+67/home/piyush/Downloads/projectreact/node_modules/function-bind/test1716997589165344546 1
+86/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/features/outline.js1716997589961309605 0
+117/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/cleanupAttrs.js1716997589217342264 0
 75/home/piyush/Downloads/projectreact/node_modules/glob/dist/esm/index.js.map1716997589293338928 0
 100/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/outline/esm/CurrencyRupeeIcon.d.ts1716997590701277195 0
 84/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/features/video.js1716997589993308200 0
@@ -8533,7 +8536,7 @@
 110/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/css-tools.js1716997589285339278 0
 91/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/solid/esm/VariableIcon.js1716997590681278071 0
 87/home/piyush/Downloads/projectreact/node_modules/@heroicons/react/solid/TerminalIcon.js1716997590677278246 0
-35/home/piyush/Downloads/projectreact1716997713092372639 1
+35/home/piyush/Downloads/projectreact1716998202245305229 1
 98/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/dist1716997589329337347 1
 74/home/piyush/Downloads/projectreact/node_modules/@parcel/packager-html/lib1716997590829271590 1
 114/home/piyush/Downloads/projectreact/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/dist/svgo.browser.js1716997589341336821 0
@@ -9246,5 +9249,3 @@
 80/home/piyush/Downloads/projectreact/node_modules/caniuse-lite/data/regions/KI.js1716997589917311536 0
 87/home/piyush/Downloads/projectreact/node_modules/yaml/browser/dist/schema/core/float.js1716997589329337347 0
 92/home/piyush/Downloads/projectreact/node_modules/yaml/browser/dist/schema/yaml-1.1/schema.js1716997589357336118 0
-97/home/piyush/Downloads/projectreact/node_modules/resolve/test/resolver/browser_field/package.json1716997589349336469 0
-89/home/piyush/Downloads/projectreact/node_modules/yaml/browser/dist/schema/yaml-1.1/set.js1716997589361335942 0
